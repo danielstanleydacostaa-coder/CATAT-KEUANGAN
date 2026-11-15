@@ -6,7 +6,7 @@
 
   // ===================== KONFIGURASI (ubah baris pertama) =====================
   const CONFIG = {
-    API_URL: 'GANTI_DENGAN_URL_APPS_SCRIPT_ANDA', // URL dari Apps Script, berakhiran /exec
+    API_URL:'https://script.google.com/macros/s/XXXX/exec',', // URL dari Apps Script, berakhiran /exec
     TOKEN_KEY: 'catatKeuangan.token',
     LAST_ACCOUNT_KEY: 'catatKeuangan.lastAccount',
     PAGE_SIZE: 50,
